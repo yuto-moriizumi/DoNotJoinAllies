@@ -1,0 +1,13 @@
+ideas = {
+	country = {
+		do_not_join_alies = {
+			allowed = {
+				always = no
+			}
+			picture = generic_fascism_drift_bonus
+			modifier = {
+				ai_get_ally_desire_factor = -1000
+			}
+		}
+	}
+}
