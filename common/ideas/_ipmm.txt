@@ -2,7 +2,7 @@ ideas = {
 	country = {
 		do_not_join_alies = {
 			allowed = {
-				always = no
+				tag = ENG
 			}
 			picture = generic_fascism_drift_bonus
 			modifier = {
